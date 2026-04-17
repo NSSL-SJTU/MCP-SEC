@@ -1,6 +1,6 @@
 # MCP-SEC
 
-MCP-SEC is the research artifact accompanying our paper:
+MCP-SEC is the analysis tool of our paper:
 
 **Mind Your Server: A Systematic Study of Parasitic Toolchain Attacks on the MCP Ecosystem**  
 
