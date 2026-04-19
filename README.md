@@ -2,11 +2,11 @@
 
 MCP-SEC is the analysis tool of our paper:
 
-**Mind Your Server: A Systematic Study of Parasitic Toolchain Attacks on the MCP Ecosystem**  
+**Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP**  
 
 Accepted by **IEEE S&P 2026**
 
-Paper: https://arxiv.org/abs/2509.06572v2
+Paper: https://arxiv.org/abs/2509.06572
 
 Demo website for our experiments: https://secresearcher100.github.io/
 
@@ -38,8 +38,8 @@ Some environment-specific configurations, platform credentials, or deployment-de
 If you find this repository useful in your research, please cite our paper:
 
 ```bibtex
-@article{zhao2025mind,
-  title={Mind your server: A systematic study of parasitic toolchain attacks on the mcp ecosystem},
+@article{zhao2025parasites,
+  title={Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP},
   author={Zhao, Shuli and Hou, Qinsheng and Zhan, Zihan and Wang, Yanhao and Xie, Yuchong and Guo, Yu and Chen, Libo and Li, Shenghong and Xue, Zhi},
   journal={arXiv preprint arXiv:2509.06572},
   year={2025}
